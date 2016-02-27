@@ -1,2 +1,4 @@
-# AI
-ELMSLN AI app. Purely for demonstration at this time but a sign of things to come. Based on [issue 567](https://github.com/elmsln/elmsln/issues/567).
+# ELMSLN AI
+We are building ways to talk to the system and have it set things up automatically. Who needs interfaces when you can command networks with your words.
+
+This is a prototype at this time.

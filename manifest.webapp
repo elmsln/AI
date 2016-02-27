@@ -1,0 +1,19 @@
+{
+  "name": "ELMSLN AI",
+  "description": "Web Speech API demo of the future",
+  "type": "privileged",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Bryan Ollendyke",
+    "url": "https://github.com/elmsln/AI"
+  },
+  "default_locale": "en",
+  "permissions": {
+    "audio-capture" : {
+      "description" : "Audio capture"
+    },
+    "speech-recognition" : {
+      "description" : "Speech recognition"
+    }
+  }
+}
